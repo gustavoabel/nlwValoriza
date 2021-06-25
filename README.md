@@ -47,8 +47,7 @@ Sistema para fazer elogio a outros usuários por meio de tags.
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/zthiago15/NLW-06
-
+$ git clone https://github.com/gustavoabell/nlwValoriza
 # Executar aplicação
 $ yarn dev
 ```
